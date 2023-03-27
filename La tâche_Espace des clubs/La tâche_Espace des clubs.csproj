@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{609A7BBC-A475-432C-9C67-14164D6A7D30}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>La_tâche_Espace_des_clubs</RootNamespace>
+    <AssemblyName>La tâche_Espace des clubs</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="La tâche_Espace des clubs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <ExecutableExtension>.exe</ExecutableExtension>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Activitées.cs" />
+    <Compile Include="Classes\Appartian.cs" />
+    <Compile Include="Classes\Club.cs" />
+    <Compile Include="Classes\Demande appartenance.cs" />
+    <Compile Include="Classes\Participants.cs" />
+    <Compile Include="Classes\Planifications.cs" />
+    <Compile Include="Classes\Publications.cs" />
+    <Compile Include="Classes\Ressources.cs" />
+    <Compile Include="ClubDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ClubDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Accueil_club.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Accueil_club.Designer.cs">
+      <DependentUpon>Accueil_club.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Crée un club.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Crée un club.Designer.cs">
+      <DependentUpon>Crée un club.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Crée un club_.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Crée un club_.Designer.cs">
+      <DependentUpon>Crée un club_.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Inviter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Inviter.Designer.cs">
+      <DependentUpon>Inviter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Liste des club.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Liste des club.Designer.cs">
+      <DependentUpon>Liste des club.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Liste des clubs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Liste des clubs.Designer.cs">
+      <DependentUpon>Liste des clubs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Liste des membre.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Liste des membre.Designer.cs">
+      <DependentUpon>Liste des membre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Modifier membre.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Modifier membre.Designer.cs">
+      <DependentUpon>Modifier membre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Planifications.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Planifications.Designer.cs">
+      <DependentUpon>Planifications.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Publicationss.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Publicationss.Designer.cs">
+      <DependentUpon>Publicationss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global.cs" />
+    <Compile Include="Managers\ActivitéeManager.cs" />
+    <Compile Include="Managers\AppartienManager.cs" />
+    <Compile Include="Managers\ClubManager.cs" />
+    <Compile Include="Managers\DMManager.cs" />
+    <Compile Include="Managers\FormateurManager.cs" />
+    <Compile Include="Managers\ParticipantsManager.cs" />
+    <Compile Include="Managers\PlanificationManager.cs" />
+    <Compile Include="Managers\PublucationManager.cs" />
+    <Compile Include="Managers\RessourcesManager.cs" />
+    <Compile Include="Managers\StagiaireManager.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\Accueil_club.resx">
+      <DependentUpon>Accueil_club.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Crée un club.resx">
+      <DependentUpon>Crée un club.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Crée un club_.resx">
+      <DependentUpon>Crée un club_.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Inviter.resx">
+      <DependentUpon>Inviter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Liste des club.resx">
+      <DependentUpon>Liste des club.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Liste des clubs.resx">
+      <DependentUpon>Liste des clubs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Liste des membre.resx">
+      <DependentUpon>Liste des membre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Modifier membre.resx">
+      <DependentUpon>Modifier membre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Planifications.resx">
+      <DependentUpon>Planifications.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Publicationss.resx">
+      <DependentUpon>Publicationss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="ClubDataSet.xsc">
+      <DependentUpon>ClubDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ClubDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ClubDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClubDataSet.xss">
+      <DependentUpon>ClubDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Exceptions\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

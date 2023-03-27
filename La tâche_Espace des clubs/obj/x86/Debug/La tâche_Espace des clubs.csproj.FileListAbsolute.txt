@@ -1,0 +1,106 @@
+E:\OFPPT\New folder\Gestion de l’établissement\La tâche_Espace des clubs\bin\Debug\La tâche_Espace des clubs.exe
+E:\OFPPT\New folder\Gestion de l’établissement\La tâche_Espace des clubs\bin\Debug\La tâche_Espace des clubs.pdb
+E:\OFPPT\New folder\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Properties.Resources.resources
+E:\OFPPT\New folder\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.csproj.GenerateResource.Cache
+E:\OFPPT\New folder\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.exe
+E:\OFPPT\New folder\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.pdb
+E:\OFPPT\New folder\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.csprojResolveAssemblyReference.cache
+E:\OFPPT\New folder\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Liste_de_notification.resources
+E:\OFPPT\New folder\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Liste_des_planification.resources
+E:\OFPPT\New folder\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Liste_des_publications.resources
+E:\OFPPT\New folder\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Menu.resources
+E:\OFPPT\New folder\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Notifications.resources
+E:\OFPPT\New folder\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Planification.resources
+E:\OFPPT\New folder\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Publication.resources
+E:\OFPPT\New folder\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Bienvenue.resources
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.exe
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.pdb
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\bin\Debug\La tâche_Espace des clubs.pdb
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Planification.resources
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Properties.Resources.resources
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Publication.resources
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.csproj.GenerateResource.Cache
+E:\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.exe
+E:\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.pdb
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.exe
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.pdb
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Properties.Resources.resources
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.csproj.GenerateResource.Cache
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\bin\Debug\La tâche_Espace des clubs.pdb
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.csprojResolveAssemblyReference.cache
+G:\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.exe
+G:\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.pdb
+G:\Gestion de l’établissement\La tâche_Espace des clubs\bin\Debug\La tâche_Espace des clubs.pdb
+G:\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.csprojResolveAssemblyReference.cache
+G:\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Accueil.resources
+G:\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Liste_des_membre.resources
+G:\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Modifier_membre.resources
+G:\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Notifications.resources
+G:\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Properties.Resources.resources
+G:\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Rapport.resources
+G:\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Planifications.resources
+G:\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Publications.resources
+G:\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.csproj.GenerateResource.Cache
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Liste_des_club.resources
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.csproj.ResolveComReference.cache
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Accueil_club.resources
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Liste_des_clubs_singin.resources
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Liste_des_membress.resources
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Modifier_membres.resources
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Notification.resources
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Publication.resources
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Rapport_de_anee.resources
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Planification.resources
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\bin\Debug\Interop.WMPLib.dll
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.csproj.ResolveComReference.cache
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\bin\Debug\Interop.WMPLib.dll
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Accueil_club.resources
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Liste_des_club.resources
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Liste_des_clubs_singin.resources
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Liste_des_membress.resources
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Modifier_membres.resources
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Crée_un_club.resources
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Inviter.resources
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.csprojResolveAssemblyReference.cache
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Crée_un_club.resources
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Inviter.resources
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\bin\Debug\La tâche_Espace des clubs.exe.config
+C:\Users\Moad\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Forms.Crée_un_club_.resources
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\bin\Debug\La tâche_Espace des clubs.exe.config
+C:\Users\ayoub\Desktop\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Forms.Crée_un_club_.resources
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\bin\Debug\La tâche_Espace des clubs.exe.config
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.csproj.ResolveComReference.cache
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.exe
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.pdb
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.csprojResolveAssemblyReference.cache
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Accueil_club.resources
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Crée_un_club.resources
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Forms.Crée_un_club_.resources
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Inviter.resources
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Liste_des_club.resources
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Liste_des_clubs_singin.resources
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Liste_des_membress.resources
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Modifier_membres.resources
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Planification.resources
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Publication.resources
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La_tâche_Espace_des_clubs.Properties.Resources.resources
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\obj\x86\Debug\La tâche_Espace des clubs.csproj.GenerateResource.Cache
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\bin\Debug\La tâche_Espace des clubs.pdb
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\bin\Debug\Interop.WMPLib.dll
+C:\Users\mmazr\OneDrive\Bureau\Gestion de l’établissement\La tâche_Espace des clubs\bin\Debug\AxInterop.WMPLib.dll
